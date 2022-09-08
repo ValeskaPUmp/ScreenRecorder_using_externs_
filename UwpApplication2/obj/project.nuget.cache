@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5A+ZfngyQVkagBdEr3UWX6kRE5958E6fzBJOAwGkOH59qCbDG+ULp5L86/dQmlWGcii/otTQE0bfUqLapKgxw==",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjects\\UwpApplication2\\UwpApplication2\\UwpApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.net.native.compiler\\2.1.8\\microsoft.net.native.compiler.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.1.2\\microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.1.7\\microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.22000.196\\microsoft.windows.sdk.contracts.10.0.22000.196.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.aot.system.runtime\\4.3.0\\runtime.aot.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.1.8\\runtime.win10-arm.microsoft.net.native.compiler.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.1.8\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\\2.1.2\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.1.8\\runtime.win10-x64.microsoft.net.native.compiler.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.1.8\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\\2.1.2\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.1.8\\runtime.win10-x86.microsoft.net.native.compiler.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.1.8\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.1.8.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.1.2\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.1.7\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.1.7.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtime.win7.system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\sharpdx.direct3d11\\4.2.0\\sharpdx.direct3d11.4.2.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\Валентин\\.nuget\\packages\\unity3d.sdk\\2021.1.14.1\\unity3d.sdk.2021.1.14.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity3D.SDK 2021.1.14.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.18362'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity3D.SDK",
+      "targetGraphs": [
+        "UAP,Version=v10.0.18362"
+      ]
+    }
+  ]
+}
